@@ -4,7 +4,7 @@
 
 const defaultBaseURL = 'https://dompling.github.io/boxjs.react/#';
 let baseUrl;
-const catalogPageURL = '/menu';
+const catalogPageURL = '';
 const webView = new WebView();
 
 let fm;
