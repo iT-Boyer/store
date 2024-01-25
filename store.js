@@ -2,7 +2,7 @@
 // These must be at the very top of the file. Do not edit.
 // icon-color: teal; icon-glyph: book-open;
 
-const defaultBaseURL = 'http://dompling.github.io/boxjs.react/#/';
+const defaultBaseURL = 'http://dompling.github.io/boxjs.react';
 let baseUrl;
 const catalogPageURL = '';
 const webView = new WebView();
